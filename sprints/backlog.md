@@ -7,9 +7,9 @@ Estimates are in hours of focused work.
 
 | # | Item | Est (h) | Status |
 |---|------|---------|--------|
-| A1 | Next remaining course: videos, quizzes, programming assignments | 16 | Sprint 01 |
-| A2 | Write a one-page summary of the course (what I can now build, what is still fuzzy) | 2 | Sprint 01 |
-| A3 | Final remaining course: videos, quizzes, programming assignments | 16 | Backlog |
+| A1 | Course 4 (CNNs), weeks 1 and 2: videos, quizzes, assignments, summary | 16 | Sprint 01 |
+| A2 | Course 4 (CNNs), weeks 3 and 4: object detection, face recognition, style transfer | 16 | Sprint 02 |
+| A3 | Course 5 (Sequence Models) or next remaining course | 16 to 32 | Backlog |
 | A4 | Add certificates and a short write-up to portfolio | 2 | Backlog |
 
 ## Track B: Career (fixed weekly slot)

@@ -1,26 +1,26 @@
-# Sprint 01: Deep Learning Specialization, next course
+# Sprint 01: Course 4 (Convolutional Neural Networks), weeks 1 and 2
 
 **Dates:** Thu Oct 29 to Wed Nov 11, 2026 (2 weeks)
-**Capacity:** 8 hrs/week, 16 hrs total, plus about 2 hrs/week for job applications
-**Sprint goal:** Finish the next remaining DeepLearning.AI course, including all graded assignments, and write a one-page summary.
+**Capacity:** 8 hrs/week learning, 16 hrs total, plus about 2 hrs/week for job applications
+**Sprint goal:** Complete weeks 1 and 2 of Course 4 of the Deep Learning Specialization (quizzes and programming assignments), and write a one-page summary.
 
 ## Plan
 
-### Week 1 (Oct 29 to Nov 4)
-- [ ] Modules 1 and 2: videos and quizzes (4 h)
-- [ ] Modules 1 and 2: programming assignments, written by me first, then reviewed (4 h)
+### Week 1 (Oct 29 to Nov 4): Foundations of CNNs
+- [ ] Course 4, week 1: videos and quizzes (4 h)
+- [ ] Course 4, week 1: programming assignments, written by me first, then reviewed (4 h)
 - [ ] Apply to 3 roles (2 h)
 
-### Week 2 (Nov 5 to Nov 11)
-- [ ] Modules 3 and 4: videos and quizzes (4 h)
-- [ ] Modules 3 and 4: programming assignments (4 h)
-- [ ] One-page course summary (2 h, can borrow from the week 2 job slot if needed)
+### Week 2 (Nov 5 to Nov 11): Deep CNN case studies, ResNets, transfer learning
+- [ ] Course 4, week 2: videos and quizzes (4 h)
+- [ ] Course 4, week 2: programming assignments (4 h)
+- [ ] One-page summary of weeks 1 and 2 in `notes/` (2 h, can borrow from the job slot if needed)
 - [ ] Apply to 3 roles (2 h)
 
 ## Definition of done
-- All quizzes passed and all assignments submitted
+- Weeks 1 and 2 quizzes passed and assignments submitted
 - Summary committed to this repo under `notes/`
-- Retro written in the section below
+- Review and retro written in the sections below
 
 ## Daily standup (3 lines, send in chat)
 1. Done since last time
