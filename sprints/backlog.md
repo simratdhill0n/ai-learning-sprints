@@ -1,30 +1,41 @@
 # Product Backlog
 
 Ordered by priority. Top items get pulled into the next sprint.
-Estimates are in hours of focused work.
+Estimates are in hours of focused work. Every sprint has three lanes: learning, career, project.
+Detailed job pipeline and interview prep live in a private Notion database, not in this public repo.
 
-## Track A: Deep Learning Specialization (DeepLearning.AI)
+## Lane A: Learning (Deep Learning Specialization)
 
 | # | Item | Est (h) | Status |
 |---|------|---------|--------|
-| A1 | Course 4 (CNNs), weeks 1 and 2: videos, quizzes, assignments, summary | 16 | Sprint 01 |
-| A2 | Course 4 (CNNs), weeks 3 and 4: object detection, face recognition, style transfer | 16 | Sprint 02 |
-| A3 | Course 5 (Sequence Models) or next remaining course | 16 to 32 | Backlog |
+| A1 | Course 4 (CNNs), weeks 1 and 2 | 13 | Sprint 01 |
+| A2 | Course 4 (CNNs), weeks 3 and 4: object detection, face recognition, style transfer | 13 | Sprint 02 |
+| A3 | Next remaining course in the specialization | 20 to 30 | Backlog |
 | A4 | Add certificates and a short write-up to portfolio | 2 | Backlog |
 
-## Track B: Career (fixed weekly slot)
+## Lane B: Career (fixed slot every sprint)
 
 | # | Item | Est (h) | Status |
 |---|------|---------|--------|
 | B1 | Apply to 3 roles per week with tailored resume | 2/wk | Every sprint |
+| B2 | Prep for each interview (checklist lives in the private pipeline) | as needed | On demand |
 
-## Track C: Hands-on projects (after DL courses)
+## Lane C: Projects (one active at a time)
+
+**Active:** AI phone assistant (`ai-phone-assistant` repo)
 
 | # | Item | Est (h) | Status |
 |---|------|---------|--------|
-| C1 | Resume micrograd (Sprint 01 of the original roadmap in README) | 10 | Backlog |
-| C2 | Transformers from scratch | 20 | Backlog |
+| C1 | Demo recording and README polish for portfolio | 2 | Sprint 01 |
+| C2 | VIP contacts that always ring through (tests first) | 2 | Sprint 01 |
+| C3 | Booking callbacks into the calendar, approved by SMS | 6 | Backlog |
+| C4 | Agent templates for different kinds of offices | 6 | Backlog |
+
+**Parking lot (not started, ranked):**
+1. Resume micrograd (original roadmap)
+2. Transformers from scratch
 
 ## Rules
-- Only pull items into a sprint if they fit the hours budget.
+- Only pull items into a sprint if they fit the lane hours.
+- One active project at a time. Starting another means finishing or pausing the active one.
 - New ideas go to the bottom of the backlog, not into the running sprint.

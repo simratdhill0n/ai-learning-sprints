@@ -1,35 +1,49 @@
-# Sprint 01: Course 4 (Convolutional Neural Networks), weeks 1 and 2
+# Sprint 01: Course 4 (CNNs) weeks 1-2, career slot, phone assistant demo
 
 **Dates:** Thu Oct 29 to Wed Nov 11, 2026 (2 weeks)
-**Capacity:** 8 hrs/week learning, 16 hrs total, plus about 2 hrs/week for job applications
-**Sprint goal:** Complete weeks 1 and 2 of Course 4 of the Deep Learning Specialization (quizzes and programming assignments), and write a one-page summary.
+**Capacity:** 10 hrs/week in three lanes
+
+| Lane | Hours/week | Label |
+|------|-----------|-------|
+| Learning | 6 | `learning` |
+| Career | 2 | `career` |
+| Project | 2 | `project:phone-assistant` |
+
+**Sprint goal:** Pass weeks 1 and 2 of Course 4 of the Deep Learning Specialization, keep 3 applications per week going, and make the AI phone assistant portfolio-ready with a demo.
+
+## How learning works this sprint (test-first)
+Take each quiz first. Only watch the videos for topics I miss. Write my own first attempt at every programming assignment, then review it.
 
 ## Plan
 
 ### Week 1 (Oct 29 to Nov 4): Foundations of CNNs
-- [ ] Course 4, week 1: videos and quizzes (4 h)
-- [ ] Course 4, week 1: programming assignments, written by me first, then reviewed (4 h)
-- [ ] Apply to 3 roles (2 h)
+- [ ] Learning: Course 4 week 1 quizzes and needed videos (3 h)
+- [ ] Learning: Course 4 week 1 programming assignments (3 h)
+- [ ] Career: apply to 3 roles (2 h)
+- [ ] Project: record a short demo of the phone assistant and polish its README for the portfolio (2 h)
 
-### Week 2 (Nov 5 to Nov 11): Deep CNN case studies, ResNets, transfer learning
-- [ ] Course 4, week 2: videos and quizzes (4 h)
-- [ ] Course 4, week 2: programming assignments (4 h)
-- [ ] One-page summary of weeks 1 and 2 in `notes/` (2 h, can borrow from the job slot if needed)
-- [ ] Apply to 3 roles (2 h)
+### Week 2 (Nov 5 to Nov 11): Deep CNN case studies, transfer learning
+- [ ] Learning: Course 4 week 2 quizzes and needed videos (3 h)
+- [ ] Learning: Course 4 week 2 programming assignments (3 h)
+- [ ] Career: apply to 3 roles (2 h)
+- [ ] Project: write tests first for "VIP contacts always ring through" (2 h)
+- [ ] Learning: one-page summary of weeks 1 and 2 in `notes/` (1 h, inside the learning budget)
 
 ## Definition of done
 - Weeks 1 and 2 quizzes passed and assignments submitted
-- Summary committed to this repo under `notes/`
-- Review and retro written in the sections below
+- Summary committed under `notes/`
+- Demo and polished README for the phone assistant published
+- 6 applications sent and logged in the career pipeline
+- Review and retro written below
 
-## Daily standup (3 lines, send in chat)
+## Standup (3 lines, on study days)
 1. Done since last time
 2. Doing next
 3. Blocked by
 
 ## Review (fill at the end)
 - Planned vs done:
-- Hours actually spent:
+- Hours actually spent per lane:
 
 ## Retro (fill at the end)
 - What went well:
